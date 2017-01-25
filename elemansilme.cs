@@ -10,7 +10,7 @@
 }
 private void button2_Click(object sender, EventArgs e)
 {
-    cpmboBox1.Sorted = true;
+    comboBox1.Sorted = true;
 }
 private void button4_Click(object sender, EventArgs e)
 {
